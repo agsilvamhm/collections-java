@@ -7,9 +7,9 @@ public class Livro {
     private String titulo;
     private int anoPublicacao;
 
-    public Livro(String autor, String titulo, int anoPublicacao) {
-        this.autor = autor;
+    public Livro(String titulo, String autor, int anoPublicacao) {
         this.titulo = titulo;
+        this.autor = autor;
         this.anoPublicacao = anoPublicacao;
     }
 
@@ -38,6 +38,6 @@ public class Livro {
     }
 
     public String toString(){
-        return "Titulo: " + getTitulo() + " - " + " Autor: - " + getAutor() + " Ano: " + getAnoPublicacao();
+        return "{Titulo: " + getTitulo() + " - " + " Autor: - " + getAutor() + " Ano: " + getAnoPublicacao() + "}";
     }
 }
