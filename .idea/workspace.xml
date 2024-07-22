@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dd73cf7-eff0-4d13-af89-1d6709c821b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/CadastroProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/ComparatorPorPreco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/map/OperacoesBasicas/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/map/Pesquisa/EstoqueProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/map/Pesquisa/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,5 +68,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="map.OperacoesBasicas.AgendaContatos" memberName="listaContatos" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
